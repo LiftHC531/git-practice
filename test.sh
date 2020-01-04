@@ -7,6 +7,7 @@
 
 git add --a
 git status
+#git commit -m "xxx project"
 git commit
 git status
 git push
